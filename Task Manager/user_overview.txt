@@ -1,0 +1,20 @@
+Total number of users registered with Task Manager: 3
+Total number of tasks generated using Task Manager: 4
+
+Total tasks assigned to the user "admin": 2
+Percentage of total number of tasks assigned to the user "admin": 50.00%
+The percentage of the tasks assigned to "admin" that have been completed: 50.00%
+The percentage of the tasks assigned to "admin" that are yet to be completed: 50.00%
+ The percentage of the tasks assigned to "admin" that have not yet been completed and are overdue: 100.00%
+
+Total tasks assigned to the user "singita": 1
+Percentage of total number of tasks assigned to the user "singita": 25.00%
+The percentage of the tasks assigned to "singita" that have been completed: 0.00%
+The percentage of the tasks assigned to "singita" that are yet to be completed: 100.00%
+ The percentage of the tasks assigned to "singita" that have not yet been completed and are overdue: 0.00%
+
+Total tasks assigned to the user "adam": 1
+Percentage of total number of tasks assigned to the user "adam": 25.00%
+The percentage of the tasks assigned to "adam" that have been completed: 0.00%
+The percentage of the tasks assigned to "adam" that are yet to be completed: 100.00%
+ The percentage of the tasks assigned to "adam" that have not yet been completed and are overdue: 0.00%
